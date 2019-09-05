@@ -15,4 +15,4 @@ clone repository ``` git clone ... ```
 ``` node server ```
 
 ### Open Client
-Open index.hml in your browser, and happy fun the real time text Editor :D
+Open index.hml in your browser, and happy fun the Real Time Text Editor :D
